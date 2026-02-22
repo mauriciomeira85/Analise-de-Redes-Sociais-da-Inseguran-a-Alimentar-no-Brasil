@@ -1,4 +1,5 @@
 # 📊 Análise de Redes Sociais da Insegurança Alimentar no Brasil
+
 # 📌 Descrição do Projeto
 
 Este projeto aplica a metodologia de Análise de Redes Sociais (ARS) para examinar a estrutura relacional da insegurança alimentar no Brasil.
@@ -29,7 +30,7 @@ A análise foi realizada em R, utilizando:
 
 * ggraph e ggplot2 para visualização.
 
-# Construção da Rede
+## Construção da Rede
 
 * Matriz binária indivíduo × vulnerabilidade;
 
@@ -49,7 +50,7 @@ A análise foi realizada em R, utilizando:
 
 * Modularidade = 0 (ausência de clusters bem definidos).
 
-# Centralidade
+## Centralidade
 
 * Variáveis de infraestrutura (LUZ_REDE, PAREDE_SOLIDA, AGUA_REDE) ocupam posições centrais;
 
@@ -59,7 +60,7 @@ A análise foi realizada em R, utilizando:
 
 * Ausência de nós intermediadores dominantes.
 
-# 📊 Visualizações
+## 📊 Visualizações
 
 O repositório inclui:
 
@@ -73,7 +74,7 @@ Os resultados indicam que a insegurança alimentar está inserida em um sistema 
 
 A Análise de Redes Sociais mostrou-se ferramenta eficaz para compreender a arquitetura relacional da vulnerabilidade socioeconômica.
 
-📎 Referência
+# 📎 Referência
 
 Caso utilize este projeto, cite como:
 
